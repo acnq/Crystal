@@ -1,0 +1,73 @@
+﻿  BmpFile.cpp
+  		Adding GLaux lib...
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XEngine\BmpFile.cpp(64,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XEngine\BmpFile.cpp(131,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XEngine\BmpFile.cpp(175,35): warning C4101: 'offset': unreferenced local variable
+  DeformableGeometry.cpp
+  Geometry.cpp
+  IndexedFaceSet.cpp
+  MeshManager.cpp
+  ModelFileFactory.cpp
+  OBJLoader.cpp
+  RendererGL.cpp
+  		Adding OpenGL lib...
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XEngine\RendererGL.cpp(267,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  RenderList.cpp
+  TextureLoaderGL.cpp
+  		Adding GLU lib...
+  TextureManager.cpp
+  TgaFile.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XEngine\TgaFile.cpp(69,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TgaImg.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XEngine\TgaImg.cpp(64,25): warning C4244: '=': conversion from 'std::streamoff' to 'unsigned long', possible loss of data
+  Transform.cpp
+  VRML1Loader.cpp
+  VRML97Loader.cpp
+  VRML97Regularizer.cpp
+  FaceBase.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\TinyXML\tinyxml.h(280,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FapFile.cpp
+  FDP.cpp
+  Generating Code...
+  Compiling...
+  FDPFile.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\TinyXML\tinyxml.h(280,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  		Adding TinyXML STL lib (Win32 Debug)...
+  		Note: TinyXMLSTL should be compiled externally using /MDd compiler switch...
+  FDPItem.cpp
+  InfluenceCalculatorMaker.cpp
+  RaisedCosInfluence.cpp
+  ApplicationBase.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\TinyXML\tinyxml.h(280,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ModelCamera.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(98,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(99,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(104,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(110,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(115,22): warning C4244: '-=': conversion from 'float' to 'long', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(116,22): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(118,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(119,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(127,24): warning C4244: 'argument': conversion from 'long' to 'GLfloat', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XFaceApp\ModelCamera.cpp(127,16): warning C4244: 'argument': conversion from 'long' to 'GLfloat', possible loss of data
+  Notification.cpp
+  Task.cpp
+  TaskHandlerBase.cpp
+  XMLUtils.cpp
+  		Adding TinyXML STL lib (Win32 Debug)...
+  		Note: TinyXMLSTL should be compiled externally using /MDd compiler switch...
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\TinyXML\tinyxml.h(280,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Matrix4.cpp
+  Quaternion.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XMath\Quaternion.cpp(255,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XMath\Quaternion.cpp(259,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XMath\Quaternion.cpp(270,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XMath\Quaternion.cpp(272,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XMath\Quaternion.cpp(274,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  raytri.cpp
+  XMath.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XMath\XMath.cpp(73,22): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XMath\XMath.cpp(73,31): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XMath\XMath.cpp(73,37): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+  XFace.vcxproj -> C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\binary\x64\Debug\XFace.lib

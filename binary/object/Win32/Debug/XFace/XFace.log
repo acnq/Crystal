@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TgaImg.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\Xface\XFace\src\XEngine\TgaImg.cpp(64,25): warning C4244: '=': conversion from 'std::streamoff' to 'unsigned long', possible loss of data
+  XFace.vcxproj -> C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\binary\Win32\Debug\XFace.lib
