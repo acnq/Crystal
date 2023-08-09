@@ -1,0 +1,11 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TTVSTestView.cpp
+          Linking with CSTHead.dll (Debug version)
+  TTVSTestDoc.cpp
+  TTVSTest.cpp
+  MainFrm.cpp
+  Generating Code...
+MainFrm.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  TTVSTest.vcxproj -> C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\binary\Win32\Debug\TTVSTest.exe

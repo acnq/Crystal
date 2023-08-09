@@ -1,0 +1,39 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TalkingHeadConcatenate.cpp
+  TalkingHead3D.cpp
+         Linking with XFace.lib (Win32 Debug)
+  OpenGLW.cpp
+          Adding OpenGL: OpenGL32.lib
+          Adding OpenGL: Glu32.lib
+          Adding OpenGL: GLAux.lib
+  OpenGLBmp.cpp
+          Adding OpenGL: OpenGL32.lib
+          Adding OpenGL: Glu32.lib
+          Adding OpenGL: GLAux.lib
+  OpenGL.cpp
+  HeadMovement.cpp
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\TTVS\HeadMovement.cpp(282,27): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\TTVS\HeadMovement.cpp(295,27): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\TTVS\HeadMovement.cpp(317,31): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  FapTTVS.cpp
+  FapMandarin.cpp
+  FapEnglish.cpp
+  FapCantonese.cpp
+  Canvas.cpp
+  AnimationPlayer.cpp
+  Generating Code...
+AnimationPlayer.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library ..\binary\Win32\Debug\CSTHead.lib and object ..\binary\Win32\Debug\CSTHead.exp
+  CSTHead.vcxproj -> C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\binary\Win32\Debug\CSTHead.dll

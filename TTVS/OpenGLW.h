@@ -9,7 +9,7 @@
 #   include <gl/GL.h>
 #   include <gl/GLU.h>
 #endif
-
+#pragma comment(lib, "legacy_stdio_definitions.lib")
 ///
 /// @brief  The OpenGL initialization class on Microsoft Windows operation system
 ///
