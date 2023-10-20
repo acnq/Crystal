@@ -1,13 +1,2 @@
-﻿  OpenGLBmp.cpp
-          Adding OpenGL: OpenGL32.lib
-          Adding OpenGL: Glu32.lib
-          Adding OpenGL: GLAux.lib
-  OpenGLW.cpp
-          Adding OpenGL: OpenGL32.lib
-          Adding OpenGL: Glu32.lib
-          Adding OpenGL: GLAux.lib
-  TalkingHead3D.cpp
-         Linking with XFace.lib (Win32 Release)
-  Generating Code...
-     Creating library ..\binary\Win32\Release\CSTHead.lib and object ..\binary\Win32\Release\CSTHead.exp
-  CSTHead.vcxproj -> C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\binary\Win32\Release\CSTHead.dll
+﻿     Creating library ..\binary\Win32\Release\CSTHead.lib and object ..\binary\Win32\Release\CSTHead.exp
+  CSTHead.vcxproj -> C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\Win32\Release\CSTHead.dll

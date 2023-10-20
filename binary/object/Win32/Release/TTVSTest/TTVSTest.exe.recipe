@@ -2,7 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\binary\Win32\Release\TTVSTest.exe</FullPath>
+      <FullPath>C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\Win32\Release\CSTHead.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\Win32\Release\TTVSTest.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

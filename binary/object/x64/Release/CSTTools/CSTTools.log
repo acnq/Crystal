@@ -1,0 +1,54 @@
+﻿  cmn_file.cpp
+  cmn_string.cpp
+  cmn_textfile.cpp
+  utl_bigram.cpp
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\utils\utl_bigram.cpp(102,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\utils\utl_bigram.cpp(200,45): warning C4267: '=': conversion from 'size_t' to 'uint32', possible loss of data
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\utils\utl_bigram.cpp(207,28): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\utils\utl_bigram.cpp(256,29): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\utils\utl_bigram.cpp(262,30): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\utils\utl_bigram.cpp(273,27): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\utils\utl_bigram.cpp(338,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\utils\utl_bigram.cpp(338,31): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  utl_chineseconv.cpp
+  utl_pinyin.cpp
+  utl_regexp.cpp
+  utl_string.cpp
+  utl_viterbi.cpp
+  utl_wagontree.cpp
+  ssml_document.cpp
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_document.cpp(297,22): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ssml_helper.cpp
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(66,22): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(86,48): warning C4477: 'swscanf' : format string '%S' requires an argument of type 'char *', but variadic argument 2 has type 'wchar_t *'
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(86,48): message : consider using '%lS' in the format string
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(86,48): message : consider using '%llS' in the format string
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(86,48): message : consider using '%LS' in the format string
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(86,48): message : consider using '%wS' in the format string
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(86,22): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(111,22): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(149,22): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\xml\ssml_helper.cpp(164,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ssml_traversal.cpp
+  xml_dom.cpp
+  xml_sax.cpp
+  dsp_databuffer.cpp
+  dsp_dspalgorithm.cpp
+  dsp_wavedata.cpp
+  dsp_wavedevice.cpp
+  WIN32: Under Microsoft Windows Operation System
+  WIN32: Linking with winmm.lib
+  dsp_wavefile.cpp
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\dsp\dsp_wavefile.cpp(364,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\dsp\dsp_wavefile.cpp(366,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\dsp\dsp_wavefile.cpp(379,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\dsp\dsp_wavefile.cpp(401,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\dsp\dsp_wavefile.cpp(414,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\dsp\dsp_wavefile.cpp(416,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\dsp\dsp_wavefile.cpp(420,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\csttools\dsp\dsp_wavefile.cpp(432,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Compiling...
+  dsp_waveplay.cpp
+  WIN32: Under Microsoft Windows Operation System
+  WIN32: Linking with winmm.lib
+  CSTTools.vcxproj -> C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\x64.Release\cst.lib

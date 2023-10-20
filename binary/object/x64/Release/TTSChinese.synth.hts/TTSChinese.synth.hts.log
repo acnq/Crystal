@@ -1,0 +1,16 @@
+﻿  hts_synthesizer.cpp
+  psp_prosodypredict.cpp
+  unitseg_unitsegment.cpp
+  hts_ssml2lab.cpp
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttschinese\synth.hts\hts_ssml2lab.cpp(317,62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  hts_synthesize.cpp
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttschinese\synth.hts\hts_synthesize.cpp(68,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+  data_voicedata.cpp
+  tts_synthesizer.cpp
+  utl_pinyin.cpp
+     Creating library C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\project\Windows\..\..\binary\x64.Release\zh.hts.lib and object C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\project\Windows\..\..\binary\x64.Release\zh.hts.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2356 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TTSChinese.synth.hts.vcxproj -> C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\x64.Release\zh.hts.dll

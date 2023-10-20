@@ -1,0 +1,50 @@
+﻿  HTS_audio.c
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_audio.c(70,41): warning C4312: 'type cast': conversion from 'DWORD' to 'WAVEHDR *' of greater size
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_audio.c(71,46): warning C4312: 'type cast': conversion from 'DWORD' to 'HTS_Audio *' of greater size
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_audio.c(167,112): warning C4311: 'type cast': pointer truncation from 'void (__cdecl *)(HWAVEOUT,UINT,DWORD,DWORD,DWORD)' to 'DWORD'
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_audio.c(167,127): warning C4311: 'type cast': pointer truncation from 'HTS_Audio *' to 'DWORD'
+  HTS_engine.c
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_engine.c(738,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_engine.c(739,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_engine.c(742,10): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_engine.c(744,10): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_engine.c(746,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HTS_gstream.c
+  HTS_label.c
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_label.c(68,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HTS_misc.c
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_misc.c(115,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_misc.c(187,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_misc.c(268,22): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_misc.c(322,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HTS_model.c
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_model.c(92,31): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_model.c(139,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HTS_pstream.c
+  HTS_sstream.c
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_sstream.c(119,29): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_sstream.c(131,32): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\HTS_sstream.c(245,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  HTS_vocoder.c
+  hts_synthesizer.cpp
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(341,30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(345,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(350,25): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(533,55): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(535,55): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(445,32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(456,32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(467,32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(478,32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(489,32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(500,32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\htslib\hts_synthesizer.cpp(511,32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HTSLib.vcxproj -> C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\x64.Release\hts.lib

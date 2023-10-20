@@ -1,0 +1,9 @@
+﻿  module_manager.cpp
+  psp_prosodypredict.cpp
+  synth_synthesize.cpp
+  unitseg_unitsegment.cpp
+  data_datamanager.cpp
+  data_drivendata.cpp
+  data_voicedata.cpp
+  tts_synthesizer.cpp
+  TTSBase.synth.vcxproj -> C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\x64.Release\tts.synth.lib

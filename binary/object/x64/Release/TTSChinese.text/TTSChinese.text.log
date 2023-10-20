@@ -1,0 +1,11 @@
+﻿  data_textdata.cpp
+  lexicon_data.cpp
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttschinese\textparse\lexicon_data.cpp(112,54): warning C4477: 'swscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'size_t *'
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttschinese\textparse\lexicon_data.cpp(112,54): message : consider using '%zd' in the format string
+  tts_textparser.cpp
+     Creating library C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\project\Windows\..\..\binary\x64.Release\zh.text.lib and object C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\project\Windows\..\..\binary\x64.Release\zh.text.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 724 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TTSChinese.text.vcxproj -> C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\x64.Release\zh.text.dll

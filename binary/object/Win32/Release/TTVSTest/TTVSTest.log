@@ -1,1 +1,8 @@
-﻿  TTVSTest.vcxproj -> C:\Users\fanyo\Documents\GitHub\Crystal.TTVS\binary\Win32\Release\TTVSTest.exe
+﻿  stdafx.cpp
+  MainFrm.cpp
+  TTVSTest.cpp
+  TTVSTestDoc.cpp
+  TTVSTestView.cpp
+          Linking with CSTHead.dll (Release version)
+  Generating Code...
+  TTVSTest.vcxproj -> C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\Win32\Release\TTVSTest.exe

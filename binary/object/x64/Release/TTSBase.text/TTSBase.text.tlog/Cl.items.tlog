@@ -1,0 +1,16 @@
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\datamanage\module_manager.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\module_manager.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\preprocess\dsa_docstruct.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\dsa_docstruct.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\preprocess\dsa_langdetect.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\dsa_langdetect.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\preprocess\dsa_symboldetect.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\dsa_symboldetect.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\preprocess\dsa_textsegment.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\dsa_textsegment.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\preprocess\lang_langconvert.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\lang_langconvert.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\preprocess\prep_preprocess.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\prep_preprocess.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\textparse\gtp_grapheme2phoneme.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\gtp_grapheme2phoneme.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\textparse\norm_textnormalize.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\norm_textnormalize.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\textparse\psg_prosstructgen.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\psg_prosstructgen.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\textparse\wdseg_wordsegment.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\wdseg_wordsegment.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\datamanage\data_datamanager.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\data_datamanager.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\datamanage\data_drivendata.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\data_drivendata.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\datatext\data_textdata.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\data_textdata.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\datatext\lexicon_lexicon.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\lexicon_lexicon.obj
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\tts.text\tts_textparser.cpp;C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\object\x64\Release\TTSBase.text\tts_textparser.obj

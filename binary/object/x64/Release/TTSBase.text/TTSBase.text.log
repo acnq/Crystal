@@ -1,0 +1,18 @@
+﻿  module_manager.cpp
+  dsa_docstruct.cpp
+  dsa_langdetect.cpp
+  dsa_symboldetect.cpp
+C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\engine\ttsbase\preprocess\dsa_symboldetect.cpp(230,71): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  dsa_textsegment.cpp
+  lang_langconvert.cpp
+  prep_preprocess.cpp
+  gtp_grapheme2phoneme.cpp
+  norm_textnormalize.cpp
+  psg_prosstructgen.cpp
+  wdseg_wordsegment.cpp
+  data_datamanager.cpp
+  data_drivendata.cpp
+  data_textdata.cpp
+  lexicon_lexicon.cpp
+  tts_textparser.cpp
+  TTSBase.text.vcxproj -> C:\Users\fanyu\OneDrive\文档\AAmstr\XFaceRepo\binary\x64.Release\tts.text.lib
